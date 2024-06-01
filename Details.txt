@@ -180,6 +180,7 @@ Task:
     relate the entities using the link table concept ( name the linking table in proper way )
 
     Use Online tools to create a simple entity relationship diagram
+    Sample ER diagram: https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/seo/ERD/discovery/erd-school.svg
 
   Design a DB for IMDB ( Optional to Submit, but please practice )
 
